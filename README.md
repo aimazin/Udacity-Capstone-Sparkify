@@ -38,5 +38,7 @@ the Udacity team for allowing some access to the project
 
 ## Licence
 
+I authorize any none malicious use of this code.
+
 
 
