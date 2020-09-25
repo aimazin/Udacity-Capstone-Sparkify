@@ -32,6 +32,8 @@ I have always been interest in big data ever since theinception of the idea and 
 
 - did not have access to full dataset hence do not know how the model really faired
 
+- I did not do it in the script but please be nice and close the spark session you are done
+
 ## Acknowledgement
 
 the Udacity team for allowing some access to the project
