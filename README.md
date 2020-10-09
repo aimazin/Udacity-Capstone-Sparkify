@@ -14,7 +14,7 @@ install latest version of python version 3.8
 
 ## Project Motivation
 
-I have always been interest in big data ever since theinception of the idea and because of some intrenchment in Python, then Spark and hence Pyspark Project was the way to go.
+I have always been interest in big data ever since the inception of the idea and because of some intrenchment in Python, then Spark and hence Pyspark Project was the way to go.
 
 
 ## File Description  
