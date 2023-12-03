@@ -38,9 +38,10 @@ I have always been interest in big data ever since the inception of the idea and
 
 the Udacity team for allowing some access to the project
 
-## Licence
+## License
 
-I authorize any none malicious use of this code.
+This project is licensed under the Apache License 2.0 - see the [LICENSE](LICENSE) file for details.
+
 
 
 
